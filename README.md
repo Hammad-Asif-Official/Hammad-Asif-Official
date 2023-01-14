@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 there, I'm Hammad Asif</h1>
 <h2 align="center">I'm a Student, Learner, and Developer!</h2>
-<img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hammad-asif-official&label=Profile%20views&color=0e75b6&style=flat" alt="hammad-asif-official" /> </p>
 
