@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Software Development**
 
-- 🌱 I’m currently learning .NET and C#
+- 🌱 I’m currently Working .NET and C#
 
 - 👯 I’m looking to collaborate with **other developers**
 
